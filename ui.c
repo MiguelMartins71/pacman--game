@@ -66,7 +66,7 @@ void imprimemapa(MAPA* m) {
 				}
 				
 			}
-			printf("\n ");
+			printf("\n");
 		}
 
 	}
